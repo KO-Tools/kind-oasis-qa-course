@@ -15,6 +15,7 @@ Interactive online training platform for cannabis manufacturing quality assuranc
 ### Clone the repository
 ```
 git clone https://github.com/yourusername/kind-oasis-qa-course.git
+
 cd kind-oasis-qa-course
 ```
 
